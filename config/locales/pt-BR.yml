@@ -1083,8 +1083,8 @@ pt-BR:
   spree:
     date: "Data"
     date_picker:
-      format: ! '%Y/%m/%d'
-      js_format: 'yy/mm/dd'
+      format: ! '%d/%m/%Y'
+      js_format: 'dd/mm/yy'
     time: "Hora"
   spree_alert_checking: "Verificar Por Alertas de Segurança e Atualização do Spree"
   spree_alert_not_checking: "Não Verificar Por Alertas de Segurança e Atualização do Spree"
@@ -1125,6 +1125,7 @@ pt-BR:
   tax_type: "Tipo de Imposto"
   taxon: "Taxon"
   taxon_edit: "Editar Taxon"
+  taxon_placeholder: "Adicionar um Taxon"
   taxonomies: "Taxonomias"
   taxonomies_setting_description: "Criar e Gerir Taxonomias"
   taxonomy: "Taxonomia"
